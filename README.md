@@ -1,6 +1,6 @@
 # Non-contact-measurement-of-Pulse-Rate
 
-An implementation of Eulerian video magnification using computer vision. This program uses the method for the application of remotely detecting an individual's heart rate in beats per minute from a still video of his/her face.
+An implementation of Eulerian video magnification using computer vision. This program uses the method for the application of remotely detecting an individual's heart rate in beats per minute from a still real-time video of his/her face.
 
 Built with OpenCV, NumPy, and SciPy in Python 3
 
